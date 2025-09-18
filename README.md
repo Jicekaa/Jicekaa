@@ -1,7 +1,6 @@
 # Jacky HUYNH
 
 Étudiant en informatique qui aime toucher à tout 👨‍💻. <br>
-Ayant eu un début de parcours orienté développement applicatif, je souhaite désormais faire carrière dans les réseaux, systèmes et sécurités informatiques.
 
 <div style="display: flex; flex-direction: row; gap: 12px;">
   <img width="75px" src="img/logo-css.png">
